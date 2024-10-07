@@ -1,0 +1,6 @@
+Django>=4.2,<5.0
+djangorestframework>=3.14,<4.0
+
+# Optional dependencies
+django-extensions>=3.2,<4.0  # For additional development features like shell_plus
+pytest-django>=4.5.2,<5.0    # For testing the project
